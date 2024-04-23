@@ -32,9 +32,6 @@ for i in range(len(num)):
     num[i],num[low]=num[low],num[i]
 print(num)
 
-
-
-
 ```
 ii)	#Insertion Sort
 ```
@@ -50,10 +47,6 @@ for i in range(1,len(num)):
         j=j-1
     num[j+1]=insert
 print(num)
-
-
-
-
 
 ```
 
